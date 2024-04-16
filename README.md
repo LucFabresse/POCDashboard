@@ -46,15 +46,17 @@ Constraints:
 - https://hexler.net/touchosc (trop musique : graphes ?) Python + Tkinter
 - apple only https://holon.ist/
 
+# Graphana scadavis
+
+- https://grafana.com/grafana/plugins/scadavis-synoptic-panel/
+- https://scadavis.io/
+
 # Others
 
 - free plan for NC - CDP Studio https://cdpstudio.com/cdp-studio/design/
 - non-free https://electricui.com/hello/arduino - web dashboard looks nice
 - Virtuino https://virtuino.com/index.php/virtuino/video-tutorials
 
-# Locally Redeployable Solutions
-
-- Graphana https://grafana.com/grafana/plugins/scadavis-synoptic-panel/ - https://scadavis.io/
 
 # Web-based SCADA solutions
 
